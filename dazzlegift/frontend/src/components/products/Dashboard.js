@@ -4,13 +4,8 @@ import Products from './Products'
 
 
 export default function Dashboard() {
-		return (
-			<Fragment>
+    return (<Fragment>
 				<Form />
 				<Products />
-			</Fragment>
-			)
+			</Fragment>)
 }
-
-
-
