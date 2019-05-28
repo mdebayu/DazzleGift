@@ -13,7 +13,6 @@ class App extends Component {
         return (
             <Provider store = {store}>
 	            <Fragment>
-
 					<Header />
 					<div classname="container">
 						<Dashboard />
